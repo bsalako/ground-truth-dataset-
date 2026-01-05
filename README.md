@@ -1,4 +1,4 @@
-# ground-truth-dataset for GRC & AI Governance
+# Ground-truth-dataset for GRC & AI Governance
 A structured, framework‑aligned ground truth dataset designed to evaluate AI systems on Governance, Risk & Compliance (GRC) and AI Governance tasks.
 This repository includes authoritative answers, evidence requirements, framework mappings, risk classifications, and acceptable variations for 25+ evaluation questions.
 
